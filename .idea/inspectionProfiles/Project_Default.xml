@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+            <item index="1" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="2" class="java.lang.String" itemvalue="django-extensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="selenium_utils.element.get_attribute" />
+          <option value="aula_webdriver.aula_webdriver_02.*" />
+          <option value="str.now" />
+          <option value="list.random" />
+          <option value="displayfunction.display.pd" />
+          <option value="set.__getitem__" />
+          <option value="set.__setitem__" />
+          <option value="str.append" />
+          <option value="SistemaTRAC.AnalisandoDadosQuery.analisandoDadosTrac.sisTrac" />
+          <option value="SistemaTRAC.AnalisandoDadosQuery.analisandoDadosTrac_TESTE.px" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
